@@ -1,0 +1,2114 @@
+fileFormatVersion: 2
+guid: 890c2d74d4cc48843b895569af8839ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 409
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59830bd0aa55799408bef58655ce4a94
+      internalID: 25911462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 409
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc11081d79f64488c4d39310157d51
+      internalID: 2034897881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 409
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301cc685f4dba9459f51b474e179a16
+      internalID: -1412128197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 409
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48775beb44db894583af5f5c245ad0c
+      internalID: -1107391204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 409
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d057277e944a46b4b44f0f0d88ff3
+      internalID: 618758891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 409
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5984fd63c85644aaf9a37f4074054
+      internalID: 1124007815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 380
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede05d1b006b1ad4e98b2a9a7e829506
+      internalID: -987149257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 383
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788765dc3eba5234f9628802a351cde3
+      internalID: -323304287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 383
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efa583b41b370047969c9e5475ff198
+      internalID: 488448139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 367
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b66d3756d31234e883511fb47517fe
+      internalID: 1969634097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c55572e081a864d81f113fecb46793
+      internalID: 416473924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 322
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea3829995d7304ea2697693afbb526
+      internalID: -1910673951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 322
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86d9c7a8c4d84c459b7abe6b4953ba0
+      internalID: -530244064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 301
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bde165146f9c74694f1f7b5db3b6bc
+      internalID: 1456827631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 296
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f31bda5327c742b5cc98cbfcbdda0
+      internalID: -1596544695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 288
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39da93381b9c4248b8313a9369838ae
+      internalID: -1288586300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 284
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f468e020a4417cc41b4073f513ca60cf
+      internalID: 1096019205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 283
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7acd3bc6d70c46ab37d4b566e6520
+      internalID: -327495983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 283
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b376a5c2dab16cf48826833ef7811e1b
+      internalID: -1824601915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 283
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14325b9461328024e881b95d12f4f954
+      internalID: -1330827652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602298b88667e6f4d9d49408724db312
+      internalID: 1620046960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 283
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3ae71b1bf9a440a265e5d15764ec9
+      internalID: -1973868346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4494d34c4a1a044b9652cdc53f4129c
+      internalID: -2141705671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 258
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b7d1d1bc463547b74a41e235622fb
+      internalID: -1594190601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 250
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e5d4a3475ce4a49bce6023b1b58969
+      internalID: -886469408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 243
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0927d6e45c6f28b449e6d3ddf421a6f2
+      internalID: -1555431410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 242
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e9b04781be4b24794b32d4f3763b3b
+      internalID: -1141530156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 242
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f9edbe088383b4bbb501d3eef49886
+      internalID: -1333002057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 243
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6e46f8bde90704e8b4f91005fbdfa1
+      internalID: -254858537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 252
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00698ec8fc8ce144598ab93fa030d57f
+      internalID: 984363156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 245
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf05c9fb5b5c64b889e7dd9c2e444a
+      internalID: 2002270798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 213
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d07838cc86c67a4186ade62fb031818
+      internalID: 1012348877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 212
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613180fd000f3e24c9b6f0ea407459c6
+      internalID: 1366439766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 212
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140cf2505096cc649844d4f60e65cc65
+      internalID: 1173409357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 205
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a8b37ced97bc4fadd0dec44cb3f1a
+      internalID: 873680188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 210
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd3946fdc3380f4dae127c979b1addf
+      internalID: -677034238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 210
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433c9b9d78f98b4ca37ed0d35247594
+      internalID: -1872734528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 209
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40066f438849d91479cbbcc75fb93bcc
+      internalID: 553868586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddc5cf4ae7ab824fbb5ab1bef4802a6
+      internalID: -1709199910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 173
+        width: 79
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4abbaa3e92973144acc92c8145a8a49
+      internalID: 538430887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 174
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9296a00a46c6c024190b3556a60f70d3
+      internalID: 352464214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 173
+        width: 95
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63dd429bd6c1a45b3614469d589406
+      internalID: 1742610744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 148
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7448df6a9e89884f9355f215dc28b91
+      internalID: 869934359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 142
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4476b5ea1cedf94f9269dbeeadd07ae
+      internalID: 946781884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 143
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d32792c48f5cc54f810c3a9b4f76459
+      internalID: -1711545678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 143
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c79b13a10f13a4c99a78c0b3ad0470
+      internalID: -202078049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_46
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 130
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275700a5446d3b4e9cef0cabc58eceb
+      internalID: -1168400704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf78ae7a685ad4d8a3763bd63c594c
+      internalID: 1283869370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 101
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90494f5454a386b4e99d03be74da0bc1
+      internalID: -1930365487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 101
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c22076de2d3a84b8cba3b66f35ff3f
+      internalID: 1843212172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 101
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e1d05b6f9c574ca33f2d2c8c7cf03
+      internalID: 651951778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 101
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f3d2cda8c16744925b668c066661a
+      internalID: -1930995955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_52
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 101
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703d2cac27699c24e9e33c1b131f80c0
+      internalID: -1463505986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b1a0968dc39a4682a94caacdeae07
+      internalID: 1969811484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 67
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02588006bcb54da489cf58274853d42b
+      internalID: -1549012209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_55
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 66
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c40ddfb0242e4e8ea95ec08c01065
+      internalID: 1493302973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 67
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc430a0fa08f1547b23187495607e05
+      internalID: -1297189177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_57
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 68
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfcfe07e57f91546926b6dddc26abd1
+      internalID: 767971433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 45
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148630f68809aa64aa65b48cf5fd68b1
+      internalID: -442046096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_59
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 47
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798ab6943761f0341aa78cfc26be3ae4
+      internalID: 703337959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1211c6c94040be40a3de657322659c1
+      internalID: -1497618736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 33
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eef924ae726f39429ac3dbcae249ec4
+      internalID: 1444090094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa56fafb9c475647b671d44ee23f66d
+      internalID: -284378083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16333763158cf44e89f03b8ab440f62
+      internalID: -796279156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_64
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c52183469e4d4cabc072138e041d5
+      internalID: -2132330228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cc296902f09424c916189bf9134388
+      internalID: 2105017695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_66
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcaed7251789a1408632c287ceca808
+      internalID: 278678500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_67
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405a9167ea4b15e4a8528dddf8b5e787
+      internalID: -84454409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baae75e5c5c91c48bd36a36f05851c5
+      internalID: -1686411101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f510edc7989e240bb7d23dd0bf4f41
+      internalID: -1704124887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d2f53139540d94aad243e7cafe688e
+      internalID: -2076618221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_71
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baaefd06b2950546b671ddcc3e67568
+      internalID: -1101855645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 20
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90e3443ebdea345876b4f9b0c42031
+      internalID: -1850127000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad606aad5fb560499e19d6547c64ba1
+      internalID: -1366894386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_74
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc22bbf364613f408ebb7af3c7720f2
+      internalID: 335130670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_75
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3f2230e8014b4892303bcd072500d
+      internalID: -962361619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_76
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 20
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631147d62b65edb4d9520cc24f760d7b
+      internalID: -1400420999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_77
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 20
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07c7a99d283a8d4a97b4aa2a3a731d6
+      internalID: 1608557036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_78
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5b648e849dfd844a9b7afc4d0f4360
+      internalID: 135235634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_79
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095c9fab54e5804db29a78ad219be40
+      internalID: -376997239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cbc2627895cca4c83cfb9d286d3a2a
+      internalID: -1360216228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_81
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db0931605ec7a49b0132f7ea1b157e
+      internalID: 90355320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_82
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd22b39be416f40894a03ae0b4bcfd
+      internalID: 1192711525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_83
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 7
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2d6b637e9dd5c438530abdc66dbecc
+      internalID: 1905574255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee29e14370f0774ea4f6c0296cea844
+      internalID: 879488993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 7
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c37c899c9399f409e9489c7063bf8d
+      internalID: 1632832513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_86
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015fcf65951ef7647889a8a2419cd926
+      internalID: 1727095390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3bfcf257fa1cc46959c49cf0751d01
+      internalID: 183397687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_88
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b5e368865e98246b70d41be2576d61
+      internalID: 648795666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X5 - Purple Rose_89
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf9a7792127fb4b95fc0e94d77c588
+      internalID: 349052863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Mega Man X5 - Purple Rose_57: 767971433
+      PlayStation - Mega Man X5 - Purple Rose_87: 183397687
+      PlayStation - Mega Man X5 - Purple Rose_50: 651951778
+      PlayStation - Mega Man X5 - Purple Rose_70: -2076618221
+      PlayStation - Mega Man X5 - Purple Rose_49: 1843212172
+      PlayStation - Mega Man X5 - Purple Rose_89: 349052863
+      PlayStation - Mega Man X5 - Purple Rose_77: 1608557036
+      PlayStation - Mega Man X5 - Purple Rose_40: 352464214
+      PlayStation - Mega Man X5 - Purple Rose_69: -1704124887
+      PlayStation - Mega Man X5 - Purple Rose_19: -1330827652
+      PlayStation - Mega Man X5 - Purple Rose_11: -1910673951
+      PlayStation - Mega Man X5 - Purple Rose_45: -202078049
+      PlayStation - Mega Man X5 - Purple Rose_8: 488448139
+      PlayStation - Mega Man X5 - Purple Rose_43: 946781884
+      PlayStation - Mega Man X5 - Purple Rose_14: -1596544695
+      PlayStation - Mega Man X5 - Purple Rose_73: -1366894386
+      PlayStation - Mega Man X5 - Purple Rose_6: -987149257
+      PlayStation - Mega Man X5 - Purple Rose_39: 538430887
+      PlayStation - Mega Man X5 - Purple Rose_47: 1283869370
+      PlayStation - Mega Man X5 - Purple Rose_16: 1096019205
+      PlayStation - Mega Man X5 - Purple Rose_79: -376997239
+      PlayStation - Mega Man X5 - Purple Rose_76: -1400420999
+      PlayStation - Mega Man X5 - Purple Rose_34: 873680188
+      PlayStation - Mega Man X5 - Purple Rose_64: -2132330228
+      PlayStation - Mega Man X5 - Purple Rose_84: 879488993
+      PlayStation - Mega Man X5 - Purple Rose_15: -1288586300
+      PlayStation - Mega Man X5 - Purple Rose_24: -886469408
+      PlayStation - Mega Man X5 - Purple Rose_27: -1333002057
+      PlayStation - Mega Man X5 - Purple Rose_22: -2141705671
+      PlayStation - Mega Man X5 - Purple Rose_59: 703337959
+      PlayStation - Mega Man X5 - Purple Rose_1: 2034897881
+      PlayStation - Mega Man X5 - Purple Rose_78: 135235634
+      PlayStation - Mega Man X5 - Purple Rose_65: 2105017695
+      PlayStation - Mega Man X5 - Purple Rose_51: -1930995955
+      PlayStation - Mega Man X5 - Purple Rose_72: -1850127000
+      PlayStation - Mega Man X5 - Purple Rose_29: 984363156
+      PlayStation - Mega Man X5 - Purple Rose_54: -1549012209
+      PlayStation - Mega Man X5 - Purple Rose_83: 1905574255
+      PlayStation - Mega Man X5 - Purple Rose_17: -327495983
+      PlayStation - Mega Man X5 - Purple Rose_12: -530244064
+      PlayStation - Mega Man X5 - Purple Rose_82: 1192711525
+      PlayStation - Mega Man X5 - Purple Rose_46: -1168400704
+      PlayStation - Mega Man X5 - Purple Rose_80: -1360216228
+      PlayStation - Mega Man X5 - Purple Rose_37: 553868586
+      PlayStation - Mega Man X5 - Purple Rose_30: 2002270798
+      PlayStation - Mega Man X5 - Purple Rose_25: -1555431410
+      PlayStation - Mega Man X5 - Purple Rose_55: 1493302973
+      PlayStation - Mega Man X5 - Purple Rose_75: -962361619
+      PlayStation - Mega Man X5 - Purple Rose_48: -1930365487
+      PlayStation - Mega Man X5 - Purple Rose_60: -1497618736
+      PlayStation - Mega Man X5 - Purple Rose_56: -1297189177
+      PlayStation - Mega Man X5 - Purple Rose_32: 1366439766
+      PlayStation - Mega Man X5 - Purple Rose_26: -1141530156
+      PlayStation - Mega Man X5 - Purple Rose_5: 1124007815
+      PlayStation - Mega Man X5 - Purple Rose_53: 1969811484
+      PlayStation - Mega Man X5 - Purple Rose_21: -1973868346
+      PlayStation - Mega Man X5 - Purple Rose_18: -1824601915
+      PlayStation - Mega Man X5 - Purple Rose_7: -323304287
+      PlayStation - Mega Man X5 - Purple Rose_33: 1173409357
+      PlayStation - Mega Man X5 - Purple Rose_61: 1444090094
+      PlayStation - Mega Man X5 - Purple Rose_44: -1711545678
+      PlayStation - Mega Man X5 - Purple Rose_62: -284378083
+      PlayStation - Mega Man X5 - Purple Rose_36: -1872734528
+      PlayStation - Mega Man X5 - Purple Rose_86: 1727095390
+      PlayStation - Mega Man X5 - Purple Rose_74: 335130670
+      PlayStation - Mega Man X5 - Purple Rose_13: 1456827631
+      PlayStation - Mega Man X5 - Purple Rose_35: -677034238
+      PlayStation - Mega Man X5 - Purple Rose_2: -1412128197
+      PlayStation - Mega Man X5 - Purple Rose_42: 869934359
+      PlayStation - Mega Man X5 - Purple Rose_68: -1686411101
+      PlayStation - Mega Man X5 - Purple Rose_3: -1107391204
+      PlayStation - Mega Man X5 - Purple Rose_28: -254858537
+      PlayStation - Mega Man X5 - Purple Rose_71: -1101855645
+      PlayStation - Mega Man X5 - Purple Rose_0: 25911462
+      PlayStation - Mega Man X5 - Purple Rose_52: -1463505986
+      PlayStation - Mega Man X5 - Purple Rose_9: 1969634097
+      PlayStation - Mega Man X5 - Purple Rose_67: -84454409
+      PlayStation - Mega Man X5 - Purple Rose_66: 278678500
+      PlayStation - Mega Man X5 - Purple Rose_63: -796279156
+      PlayStation - Mega Man X5 - Purple Rose_58: -442046096
+      PlayStation - Mega Man X5 - Purple Rose_81: 90355320
+      PlayStation - Mega Man X5 - Purple Rose_31: 1012348877
+      PlayStation - Mega Man X5 - Purple Rose_4: 618758891
+      PlayStation - Mega Man X5 - Purple Rose_85: 1632832513
+      PlayStation - Mega Man X5 - Purple Rose_20: 1620046960
+      PlayStation - Mega Man X5 - Purple Rose_38: -1709199910
+      PlayStation - Mega Man X5 - Purple Rose_23: -1594190601
+      PlayStation - Mega Man X5 - Purple Rose_41: 1742610744
+      PlayStation - Mega Man X5 - Purple Rose_10: 416473924
+      PlayStation - Mega Man X5 - Purple Rose_88: 648795666
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: 5603e0cb59dd57341ae5e7df5a51a6f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx4_stageselect2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 435
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6066019b0e772a445915bae70f37fbfe
+      internalID: -643457001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 436
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d94e4413e4bf52459cf47b4cf5e7565
+      internalID: -1303956772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 436
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e7cd2a36dd5f84b904290a546d36af
+      internalID: 1017713869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 436
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6425c7fbd62bc4ea1bc74e759d0294
+      internalID: -4431133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 435
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773e866f7e20634f8346ede6e76c906
+      internalID: -1786901623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 351
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b916db3049b6a004f90629566b894a98
+      internalID: 26520742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9d42c215fabab4486fe1d54d33f6a7
+      internalID: -899189632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 256
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408b0740b556e246843dc8c72872452
+      internalID: -1727435404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 251
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dcd0e0d7e2b424b8f0e922118f9e70
+      internalID: 507824715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 265
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4dfe292aefe4648abc2d8e9c733eaa
+      internalID: -995982168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 243
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886ad65d9e4ad5498cd4546909b768b
+      internalID: 1186362564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 251
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b6c34d566fe2041a864add0d4643a5
+      internalID: -1908910652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 178
+        width: 126
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2a14c8d63cf345b10a8ce5fc01676
+      internalID: -409537890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 178
+        width: 126
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff906b33f6694d44bc35dfa06350688
+      internalID: 349739460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 178
+        width: 126
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80da6224b6c0e74f961a776f8714d1e
+      internalID: -70453426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 126
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab315477cb4c349b7be594349a01a0
+      internalID: -885462298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 111
+        width: 126
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5544e7251c371541bb1bc64d9bcdf6d
+      internalID: 1284232787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 126
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6175e8ed9f32d64cb53134dac3ec84c
+      internalID: 674248393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 89
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db6bfde38e4ca4993de9264d4857c0
+      internalID: 63267406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 88
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f92fcdea3de7458a6db1fca925d86
+      internalID: -45744939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 86
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf086fe38704546a6e2cf80f1cb9fd
+      internalID: 1476804565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 94
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f45c671614e924f9ce997ae8d01066
+      internalID: 929097655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 76
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2fcf3ae9b5cfa458d4ec6276b27a0d
+      internalID: -292872766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 93
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d12f438512f2d84eb38f397138ff22a
+      internalID: -1293499409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 85
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c46e643ee89744aa7e93e9954db2a
+      internalID: -375001718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dbafa006c4f6645bfcfb59947445cc
+      internalID: 249258648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 86
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa4cbebb9f6a5f4387e386b0ceb37f8
+      internalID: 640872840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51364a762519447bd3f796dd6c4f06
+      internalID: -1725241284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 41
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b471665202314cb5e9bf9dd0d6c83
+      internalID: 1131917924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce4dff7773e4b345b6c9c90d9f51232
+      internalID: -1399903437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 42
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8282ea9bcbf974e926ccb003bc0437
+      internalID: 904388832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e22b9a165067846acadb7489ca5e65
+      internalID: -51616486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 41
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5738f4c4efe024f41b4c680adafc9882
+      internalID: 586504295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 51
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53ebd59277bb6d4888016f37dea4dd1
+      internalID: 423568671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 43
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e896822a2cdf7ba4397db17fe300bfee
+      internalID: 899320885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 23
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bdcd59d26c6d34c8fa894ed4b3ff86
+      internalID: 1341700485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 14
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a45a2dd1b6dbf43bf0280e1aa67ef0
+      internalID: 1895680785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_stageselect2_37
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad89e9a787af5ac4a895ef09a5d90219
+      internalID: -147288686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mmx4_stageselect2_21: 929097655
+      mmx4_stageselect2_13: 349739460
+      mmx4_stageselect2_7: -1727435404
+      mmx4_stageselect2_27: -1725241284
+      mmx4_stageselect2_3: -4431133
+      mmx4_stageselect2_9: -995982168
+      mmx4_stageselect2_29: -1399903437
+      mmx4_stageselect2_16: 1284232787
+      mmx4_stageselect2_10: 1186362564
+      mmx4_stageselect2_0: -643457001
+      mmx4_stageselect2_25: 249258648
+      mmx4_stageselect2_18: 63267406
+      mmx4_stageselect2_12: -409537890
+      mmx4_stageselect2_30: 904388832
+      mmx4_stageselect2_35: 1341700485
+      mmx4_stageselect2_8: 507824715
+      mmx4_stageselect2_6: -899189632
+      mmx4_stageselect2_31: -51616486
+      mmx4_stageselect2_32: 586504295
+      mmx4_stageselect2_34: 899320885
+      mmx4_stageselect2_36: 1895680785
+      mmx4_stageselect2_5: 26520742
+      mmx4_stageselect2_2: 1017713869
+      mmx4_stageselect2_37: -147288686
+      mmx4_stageselect2_15: -885462298
+      mmx4_stageselect2_22: -292872766
+      mmx4_stageselect2_17: 674248393
+      mmx4_stageselect2_20: 1476804565
+      mmx4_stageselect2_4: -1786901623
+      mmx4_stageselect2_1: -1303956772
+      mmx4_stageselect2_19: -45744939
+      mmx4_stageselect2_11: -1908910652
+      mmx4_stageselect2_24: -375001718
+      mmx4_stageselect2_23: -1293499409
+      mmx4_stageselect2_28: 1131917924
+      mmx4_stageselect2_26: 640872840
+      mmx4_stageselect2_14: -70453426
+      mmx4_stageselect2_33: 423568671
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
